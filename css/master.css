@@ -1224,6 +1224,7 @@ width: 50px;
   border: none;
   outline: none;
   margin-left: 10px;
+  margin-top: 20px;
 
 }
 .news .container form input[type="email"]::placeholder{
