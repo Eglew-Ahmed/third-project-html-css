@@ -40,6 +40,11 @@ body {
     margin: 30px auto 60px;
     font-size: 30px;
   }
+  @media (max-width:786px) {
+    .box-title{
+      font-size: 15px;
+    }
+  }
   .box-title:hover {
     animation: change-box-title 0.3s linear 0.4s both;
   }
